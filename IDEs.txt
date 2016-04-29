@@ -1,0 +1,6 @@
+webstorm
+phpstorm
+sublime text
+jetbrains
+
+oh my zsh
